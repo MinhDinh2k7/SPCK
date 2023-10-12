@@ -1,0 +1,28 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+.boxlon{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    border: 1px solid #ff2a2d;
+    border-radius: 20px;
+    height: 122px;
+    width: 85%;
+    position: relative;
+    left: 100px;
+    justify-content: space-around;
+
+}
+.item{
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    cursor: pointer;
+}
+h4{
+   position: relative;
+}
+div.item{
+    line-height: 80%;
+}
